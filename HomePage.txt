@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+footer
+	{
+		float:right;
+	}	
+ </style>
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
@@ -31,8 +37,8 @@
 <br>
 <br>
 <footer>
-  <input type="submit" name="Contact Us" value="Contact">
-  <input type="submit" name="Help" value="Help">
-</footer>
+ 		<input type="button" name=contact value="Contact">
+ 		<input type="button" name=help value="Help">
+  </footer> 
 </body>
 </html>
